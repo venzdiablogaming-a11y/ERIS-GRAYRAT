@@ -1,11 +1,18 @@
-<div align="center">
+# St. Cecilia's College Alumni Network
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Official Alumni Portal and Institutional Advancement System for St. Cecilia's College - Cebu, Inc.
 
-  <h1>Built with AI Studio</h2>
+## Default & Test Accounts
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+For testing, auditing, and development credentials across all institutional roles (`superadmin`, `admin`, `registrar`, `staff`, `moderator`, `employer`, and `alumni`), please refer to:
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+👉 **[`DEFAULT_ACCOUNTS.md`](./DEFAULT_ACCOUNTS.md)**
 
-</div>
+*Note: In accordance with cybersecurity guidelines, credentials and quick-login shortcuts are not rendered on the public login page.*
+
+## Key Modules
+
+- **Alumni Member Portal**: Personalized dashboard, digital alumni identification card, verified member directory, direct messaging, and reunions/events.
+- **Registrar Workspace**: Student registry matching, graduation records verification, bulk CSV import, and conflict resolution.
+- **Employer Network**: Corporate accreditation, job board listings, candidate application tracking, and talent acquisition.
+- **Institutional Governance**: Multi-role access control (RBAC), emergency controls, audit log trails, and policy enforcement.
